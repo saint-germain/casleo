@@ -1,0 +1,4 @@
+Objetivos:
+
+Nuestro objetivo es determinar la presencia de actividad cromosférica en estrellas jóvenes evolucionadas, por lo cual es necesario establecer un criterio basado en la medición de parámetros observacionales correlacionados con la presencia o ausencia de esta actividad. En este proyecto
+mediremos el flujo en dos bandas centradas en las líneas H y K del Calcio, (relacionadas con la presencia de actividad cromosférica), fotometría en la banda U (posiblemente relacionada con actividad de acreción de gas) y el ancho equivalente de la línea H alfa. Con estos datos, junto con datos obtenidos de la literatura, buscamos trazar líneas evolutivas para estrellas jóvenes en el espacio de parámetros mencionados, dependiendo del tipo espectral. 
